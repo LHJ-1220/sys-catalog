@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "AI System Catalog",
-  description: "운영매뉴얼 기반 시스템 카탈로그 MVP",
+  title: "sys-catalog",
+  description: "운영매뉴얼 기반 시스템 카탈로그",
 };
 
 export default function RootLayout({
